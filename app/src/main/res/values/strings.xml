@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">iPark</string>
+    <string name="buttonLogin">Login</string>
+    <string name="notRegistered">Not registered?</string>
+    <string name="register">REGISTER</string>
+    <string name="textLogin">LOGIN</string>
+    <string name="textAlreadyRegistered">Already Registered?</string>
+    <string name="buttonRegister">Register</string>
+    <string name="stringRegister">Register your new account</string>
+    <string name="title_activity_menu">menuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_titull">Perdoruesi</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_parko">      Parko</string>
+    <string name="menu_ndihme">      Ndihme</string>
+    <string name="menu_dilngaprogrami">      Dil nga Programi</string>
+    <string name="listaOre">Ore</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="totali">Totali</string>
+    <string name="buttonTotal">Llogarit Totalin</string>
+    <string name="buttonParko">Parko</string>
+    <string name="view">VIEW</string>
+    <string name="miresevini">Mire se vini!</string>
+    <string name="ndihme1">     -  iPark eshte nje platforme inovative e cila i ofron perdoruesit mundesin e rezerimit te nje vendi parkimi me vetem shtypjen e nje butoni. </string>
+    <string name="ndihme2">     -  iPark eshte nje platforme e re ,userfriendly dhe mjaft e thjeshte ne perdorim .</string>
+    <string name="ndihme3">     -  Me ane te kesaj platforme ju kurseni kohe ne gjetjen dhe rezervimin e nje vend-parkimi kudo dhe ne cdo moment!</string>
+    <string name="ndihme4">     -  1. Regjistrohuni duke krijuar nje adrese te re ne iParko.</string>
+    <string name="ndihme5">     -  2. Logohuni ne faqen e iParko.</string>
+    <string name="ndihme6">     -  3. Ne menune Parko vendosni Targen e automjetit tuaj, percaktoni zonen ne te cilen do te parkoni dhe sa (ore) do te zgjase parkimi juaj.</string>
+    <string name="ndihme7">     -  4. Pasi keni plotesuar kriteret e mesiperme klikoni ne butonin Parko per te perfunduar rezervimin e vend-parkimit.</string>
+    <string-array name="zona">
+        <item>A-100 Leke</item>
+        <item>B- 50 Leke</item>
+        <item>C- 20 Leke</item>
+    </string-array>
+    <string-array name="orari">
+        <item>1 </item>
+        <item>2 </item>
+        <item>3 </item>
+        <item>4 </item>
+        <item>5 </item>
+        <item>6 </item>
+        <item>7 </item>
+        <item>8 </item>
+        <item>9 </item>
+        <item>10 </item>
+        <item>11 </item>
+        <item>12 </item>
+        <item>13 </item>
+        <item>14 </item>
+        <item>15 </item>
+        <item>16 </item>
+        <item>17 </item>
+        <item>18 </item>
+        <item>19 </item>
+        <item>20 </item>
+        <item>21 </item>
+        <item>22 </item>
+        <item>23 </item>\
+        <item>24 </item>
+
+    </string-array>
+
+</resources>
